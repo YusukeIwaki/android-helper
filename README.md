@@ -1,4 +1,4 @@
-# android-helper
+# [DEPRECATED!] android-helper
 
 Some trivial helpers for Android.
 
